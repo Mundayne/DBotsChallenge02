@@ -16,7 +16,7 @@ Configuration example:
 	"prefix": "m>",
 	"server": "Discord Mail",
 	"channel": "mailto",
-	"staff_role:" ["Mail Staff", "Trusted"]
+	"staff_role": ["Mail Staff", "Trusted"]
 }
 ```
 
@@ -26,7 +26,7 @@ or
 {
 	"prefix": "m>",
 	"server": "522020274598838282",
-	"channel": "524469905467375616"
+	"channel": "524469905467375616",
 	"staff_role": ["Mail Staff", "Trusted"]
 }
 ```
