@@ -7,7 +7,8 @@
 [Moment](https://github.com/moment/moment/)  
 
 # Requisites:
-A `.env` file in the root folder with the bot token named `BOT_TOKEN`  A `configuration.json` file specifying the server's and channel's ID or name where the bot will send user's mails.
+A `.env` file in the root folder with the bot token named `BOT_TOKEN`  
+A `configuration.json` file specifying the server's and channel's ID or name where the bot will send user's mails.
 
 Configuration example:
 ```json
@@ -26,6 +27,6 @@ or
 	"prefix": "m>",
 	"server": "522020274598838282",
 	"channel": "524469905467375616"
-	"staff_role:" ["Mail Staff", "Trusted"]
+	"staff_role": ["Mail Staff", "Trusted"]
 }
 ```
