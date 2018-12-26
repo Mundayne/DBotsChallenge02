@@ -1,0 +1,6 @@
+package-lock.json
+node_modules
+.env
+*.sqlite
+.eslintrc.json
+Events/ready.js

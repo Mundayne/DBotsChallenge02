@@ -1,0 +1,18 @@
+{
+  "name": "mail-bot",
+  "version": "1.0.0",
+  "description": "A bot made for [/r/Discord_Bots](https://discord.gg/xRFmHYQ) with the only purpose of creating a somehow ticket-support channel between an user and a server's staff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^6.2.0",
+    "moment": "^2.23.0",
+    "sqlite": "^3.0.0"
+  }
+}
